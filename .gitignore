@@ -3,3 +3,4 @@
 /phpunit.xml
 /bootstrap.php
 /build
+.DS_Store
